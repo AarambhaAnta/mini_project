@@ -1,4 +1,4 @@
-ID,duration,file_location,start,stop,speaker_id,emotion_number
+ID,duration,wav,start,stop,spk_id,label
 S15--15a05Lb_1,1.66,/Users/adityakumar/Developer/Projects/mini_project/output/15a05Lb_1.wav,0,26560,S15,4
 S08--08b09Ab_2,1.59,/Users/adityakumar/Developer/Projects/mini_project/output/08b09Ab_2.wav,0,25440,S08,3
 S16--16b01Wa_1,1.3,/Users/adityakumar/Developer/Projects/mini_project/output/16b01Wa_1.wav,0,20800,S16,2
