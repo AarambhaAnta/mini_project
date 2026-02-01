@@ -1,5 +1,9 @@
 # Audio Emotion Dataset Processing
 
+Berlin Database of Emotional Speech (EMO-DB) processing and labeling.
+
+**Original Dataset:** [Berlin Database of Emotional Speech on Kaggle](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb?resource=download)
+
 ## Folder Structure
 
 ```bash
